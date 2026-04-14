@@ -69,3 +69,12 @@ footer {
   height: 500px; 
   width: 100%;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+form input,
+form textarea {
+    margin-bottom: 0.5em;
+}
