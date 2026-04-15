@@ -36,6 +36,7 @@ main {
   margin: left;
   background-color: white;
   border-radius: 8px;
+  font-size: 1.5vw;
 }
 
 button {
